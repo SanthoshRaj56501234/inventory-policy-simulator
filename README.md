@@ -17,6 +17,6 @@ the trade-off between fill rate and inventory turns.
 R, tidyverse, timetk, gt
 
 ##  Files
-| File | Description |
+| File | Data |
 |------|-------------|
-| `inventry_fore.R` | Main simulation & comparison code |
+| `inventry_fore.R` | 'Forecast.csv' |
